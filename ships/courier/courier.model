@@ -1,10 +1,10 @@
-material Fuselage-material
+material fuselage
 diffuse 1.0 1.0 1.0
 specular 0.8 0.8 0.8
 #use_patterns
 tex_diff courier_diff.dds
 tex_spec courier_spec.dds
-tex_glow courier_glow.dds
+#tex_glow courier_glow.dds
 tex_norm courier_norm.png
 
 lod 300
@@ -19,4 +19,4 @@ mesh courier_low.dae
 
 anim gear_down 1 121
 
-collision courier_collision.dae
+collision courier_shield.dae
