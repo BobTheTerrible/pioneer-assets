@@ -18,13 +18,13 @@
    "model" : "courier",
    "name" : "Courier",
    "price" : 500000.0,
-   "ship_class" : "light_freighter",
+   "ship_class" : "heavy_courier",
    "capacity" : 400,
    "slots" : {
       "atmo_shield" : 0,
       "cargo" : 180,
       "scoop" : 1,
       "laser_front" : 1,
-      "missile" : 5
+      "missile" : 8
    }
 }
