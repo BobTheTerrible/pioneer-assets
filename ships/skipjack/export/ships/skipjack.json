@@ -14,7 +14,8 @@
       "cargo" : 180,
       "scoop" : 3,
       "laser_front" : 1,
-      "missile" : 6
+      "missile" : 8,
+      "sensor" : 1
    },
    "effective_exhaust_velocity" : 16000000.0,
    "thruster_fuel_use" : -1.0,
